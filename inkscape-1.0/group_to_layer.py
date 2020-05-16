@@ -21,6 +21,8 @@
 # OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+# Ported to Inkscape 1.0 by Sofyan Sugianto <sofyanartem@gmail.com>
+
 import inkex
 
 class GroupToLayerEffect(inkex.Effect):
