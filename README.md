@@ -1,4 +1,4 @@
-Group to Layer Extension
+## Group to Layer Extension
 
 This extension converts the selected groups into Inkscape layers.
 
